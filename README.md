@@ -1,5 +1,5 @@
 ## Hello World! I'm Fadhil Najib 👋
-I am an undergraduate student majoring in Informatics from Universitas Pembangunan Nasional "Veteran" Yogyakarta, with a strong interest in software development and information systems. I am passionate about learning new technologies, solving real-world problems through programming, and continuously improving my skills through both academic projects and independent learning.
+### And I'm still learning
 
 
 <!--
@@ -17,4 +17,12 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 --> 
 
-[LinkedIn](http://www.linkedin.com/in/fadhil-najib)
+##### connect with me :
+![https://www.instagram.com/fdhl_najib](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)  ![http://www.linkedin.com/in/fadhil-najib](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)
+
+##### tools
+[![My Skills](https://skillicons.dev/icons?i=cpp,html,css,php,python,java,git,mysql,figma)](https://skillicons.dev)
+
+![Fadhil Najib's GitHub stats](https://github-readme-stats.vercel.app/api?username=FadhilNajib)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=FadhilNajib)
