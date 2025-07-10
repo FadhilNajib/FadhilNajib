@@ -23,6 +23,7 @@ Here are some ideas to get you started:
 ##### tools
 [![My Skills](https://skillicons.dev/icons?i=cpp,html,css,php,python,java,git,mysql,figma)](https://skillicons.dev)
 
-![Fadhil Najib's GitHub stats](https://github-readme-stats.vercel.app/api?username=FadhilNajib)
+![Fadhil Najib GitHub stats](https://github-readme-stats.vercel.app/api?username=FadhilNajib&show_icons=true&theme=dark)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=FadhilNajib)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=FadhilNajib&theme=dark)
