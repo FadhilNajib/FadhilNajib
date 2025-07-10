@@ -1,4 +1,6 @@
-## Hi there 👋
+## Hello World! I'm Fadhil Najib 👋
+I am an undergraduate student majoring in Informatics from Universitas Pembangunan Nasional "Veteran" Yogyakarta, with a strong interest in software development and information systems. I am passionate about learning new technologies, solving real-world problems through programming, and continuously improving my skills through both academic projects and independent learning.
+
 
 <!--
 **FadhilNajib/FadhilNajib** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -13,4 +15,6 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
+--> 
+
+[LinkedIn](http://www.linkedin.com/in/fadhil-najib)
