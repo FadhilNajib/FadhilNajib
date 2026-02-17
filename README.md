@@ -23,7 +23,9 @@ Here are some ideas to get you started:
 ##### tools
 [![My Skills](https://skillicons.dev/icons?i=cpp,html,css,php,python,java,git,mysql,figma)](https://skillicons.dev)
 
-![Fadhil Najib GitHub stats](https://github-readme-stats.vercel.app/api?username=FadhilNajib&show_icons=true&theme=dark)
-
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=FadhilNajib&theme=dark)
+<p align="left">
+<a href="https://github.com/FadhilNajib">
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=penuliscode&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=penuliscode&layout=compact&theme=algolia"/>
+</a>
+</p>
